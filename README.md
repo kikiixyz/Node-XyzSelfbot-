@@ -28,9 +28,7 @@ Dirancang untuk **automation WA**, AI, downloader, dan converter media.
 |  | `!play2` | Download audio YouTube via Python worker |
 |  | `!tiktok` | Download video / audio TikTok |
 | 🔄 Converter | `!sticker` | Convert foto, video, atau teks menjadi stiker WA |
-| 🧩 Misc | `!buka` | Decrypt file |
-|  | `!decrypt` | Buka media terenkripsi |
-|  | `!open` | Lihat isi media yang dihapus |
+| 🧩 Misc | `!buka` | Decrypt ViewOnce |
 
 ---
 
@@ -53,8 +51,6 @@ Dirancang untuk **automation WA**, AI, downloader, dan converter media.
 ### 📌 Catatan
 - Bot ini **selfbot**, gunakan dengan bijak  
 - Pastikan **Python 3.x** terinstall untuk fitur downloader & TTS  
-- Simpan **API key AI / ElevenLabs** di `config.json` untuk fitur premium  
-
 ---
 
 _Node Xyzselfbot - Semua dalam satu, siap untuk automation WA_
